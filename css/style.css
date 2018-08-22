@@ -898,8 +898,8 @@ ol {
 .home-three-style .social-links,
 .home-four-style .social-links {
 	text-align: center;
-	padding-bottom: 70px;
-	padding-top: 120px;
+	padding-bottom: 0;
+	padding-top: 620px;
 }
 
 .home-three-style .social-links a,
