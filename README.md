@@ -1,1 +1,1 @@
-My personal portfolio and blog.
+My portfolio.
