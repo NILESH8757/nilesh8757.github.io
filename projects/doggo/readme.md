@@ -1,1 +1,1 @@
-This is a tinder like website for dogs.
+Startup website for products/services related to Dogs.
